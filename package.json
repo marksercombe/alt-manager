@@ -1,0 +1,16 @@
+{
+  "name": "alt-manager",
+  "version": "1.0.0",
+  "description": "Minecraft alt loader with discord interface (Open source)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hadan",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "fs": "0.0.1-security",
+    "mineflayer": "^2.9.6"
+  }
+}
