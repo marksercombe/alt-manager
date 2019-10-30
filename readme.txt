@@ -6,10 +6,10 @@ dont forget to change client_id=
 to the client id of your own bot
 
 
-just realized theres severe issues with the files i uploaded not sure why il fix it tho
 
 
-my slight improvements on this bot -hate
+
+my slight improvements on this bot -hate you_wil_hate_me#6589
 
 changes:
 1. help command now shows the current prefix and not just a .
