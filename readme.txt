@@ -16,11 +16,9 @@ changes:
 
 2. added some bot info in console when aplication starts
 
-3. cleaned up code ever so slighly (almost nothing)
+3. made embed color configurable in settings file
 
-4. made a start of a settings command allowing the user to change settings in discord (il finish later)
+4. made discord commands get deleted when the command gets executed
 
-5. made discord commands get deleted when the command gets executed
-
-6. added a logging to the console when bot logs into discoord (
+5. added some logging to the console when bot logs into discoord (amount of users/channels/servers its connected to and its name)
 
