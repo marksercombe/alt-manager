@@ -1,9 +1,9 @@
 {
     "prefix":"!",
-    "token": "NTIwNzE3Njc3MjAzOTQ3NTIw.Xbl03Q.ERWIu47UXTW6YMaGIi8ZxPgDSX4",
+    "token": "NTIwNzE3Njc3MjAzOTQ3NTIw.Xbn9zw.pxv82dSjqpc46zG5Hdzk0RHA_A8",
     "version": "1.8",
-    "joindelay": "1000",
-    "timeBetweenMessages": "4000",
+    "interval": "2000",
+    "timeBetweenMessages": "2000",
     "whitelist": ["344253636773150720"],
-    "embedcolor": "#247a9a"
+    "embedcolor": "#f6d443"
 }

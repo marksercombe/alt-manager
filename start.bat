@@ -1,5 +1,5 @@
 :start
-Title Haden's alt manager modified by you_wil_hate_me
-Color c
+Title Alt manager by: Hadan
+Color c 
 node index.js
 goto :start
