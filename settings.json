@@ -1,8 +1,9 @@
 {
-    "prefix":".",
-    "token": "",
-    "version": "1.8.9",
-    "interval": "1500",
-    "timeBetweenMessages": "50",
-    "whitelist": [""]
+    "prefix":"!",
+    "token": "NTIwNzE3Njc3MjAzOTQ3NTIw.Xbl03Q.ERWIu47UXTW6YMaGIi8ZxPgDSX4",
+    "version": "1.8",
+    "joindelay": "1000",
+    "timeBetweenMessages": "4000",
+    "whitelist": ["344253636773150720"],
+    "embedcolor": "#247a9a"
 }
