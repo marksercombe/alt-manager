@@ -22,3 +22,5 @@ changes:
 
 5. added some logging to the console when bot logs into discoord (amount of users/channels/servers its connected to and its name)
 
+6. modified the to few alts message to show the amount of alts avalible and the amount requested
+
